@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Мой сайт</title>
+    <title>РњРѕР№ СЃР°Р№С‚</title>
 </head>
 
 <body>
@@ -12,14 +12,14 @@
     <!-- index.html -->
 
     <header>
-        <h1>Добро пожаловать!</h1>
+        <h1>Р“Р»Р°РІРЅР°СЏ</h1>
 
         <nav>
-            <a href="index.html">Главная</a>
-            <a href="about.html">Обо мне</a>
-            <a href="friends.html">Мои друзья</a>
-            <a href="hobbies.html">Мои хобби</a>
-            <a href="group.html">Моя учебная группа</a>
+            <a href="index.html">Р“Р»Р°РІРЅР°СЏ</a>
+            <a href="about.html">РћР±Рѕ РјРЅРµ</a>
+            <a href="friends.html">РњРѕРё РґСЂСѓР·СЊСЏ</a>
+            <a href="hobbies.html">РњРѕРё С…РѕР±Р±Рё</a>
+            <a href="group.html">РњРѕСЏ СѓС‡РµР±РЅР°СЏ РіСЂСѓРїРїР°</a>
         </nav>
     </header>
 
@@ -28,23 +28,23 @@
         <section>
 
             <p>
-                Здесь вы узнаете обо мне.
+                Р”РѕР±СЂРѕ РїРѕР¶Р°Р»РѕРІР°С‚СЊ! <br> Р—РґРµСЃСЊ РІС‹ СѓР·РЅР°РµС‚Рµ РѕР±Рѕ РјРЅРµ.
             </p>
-            <p> ФИО: Магомадов Юсуп М. </p>
-            <p> Группа: <strong>ПИЖ-б-о-26-2(2)</strong>
+            <p> Р¤РРћ: РњР°РіРѕРјР°РґРѕРІ Р®СЃСѓРї Рњ. </p>
+            <p> Р“СЂСѓРїРїР°: <strong>РџРР–-Р±-Рѕ-26-2(2)</strong>
         </section>
 
         <hr>
 
         <section>
-            <h2>Основные разделы</h2>
+            <h2>РћСЃРЅРѕРІРЅС‹Рµ СЂР°Р·РґРµР»С‹</h2>
 
             <ul>
-                <li>Главная</li>
-                <li>Обо мне</li>
-                <li>Мои друзья</li>
-                <li>Мои хобби</li>
-                <li>Моя учебная группа</li>
+                <li>Р“Р»Р°РІРЅР°СЏ</li>
+                <li>РћР±Рѕ РјРЅРµ</li>
+                <li>РњРѕРё РґСЂСѓР·СЊСЏ</li>
+                <li>РњРѕРё С…РѕР±Р±Рё</li>
+                <li>РњРѕСЏ СѓС‡РµР±РЅР°СЏ РіСЂСѓРїРїР°</li>
             </ul>
 
         </section>
@@ -53,8 +53,8 @@
 
     <footer>
         <p>
-            &copy; 2026 Мой сайт<br>
-            Электронная почта: flmagic.888@gmail.com
+            &copy; 2026 РњРѕР№ СЃР°Р№С‚<br>
+            Р­Р»РµРєС‚СЂРѕРЅРЅР°СЏ РїРѕС‡С‚Р°: flmagic.888@gmail.com
         </p>
     </footer>
 
